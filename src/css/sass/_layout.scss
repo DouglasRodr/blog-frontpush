@@ -59,3 +59,14 @@ a {
     color: $white-light;
     padding: 8px;
 }
+
+.img-profile {
+    width: 56px;
+    height: 56px;
+    background-color: $gray-2;
+    border-radius: 50%;
+}
+
+.container-posts {
+    display: flex;
+}
